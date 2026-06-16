@@ -33,7 +33,7 @@ super-pacc-project/
 │   ├── middleware/           # Auth and validation middleware
 │   ├── models/               # Mongoose Schemas (User, Expense)
 │   ├── routes/               # API endpoint router mappings
-│   ├── index.js              # Server entrypoint
+│   ├── server.js             # Server entrypoint
 │   └── .env                  # Backend environment variables
 └── frontend/                 # React SPA Client
     ├── src/
